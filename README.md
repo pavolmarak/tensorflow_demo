@@ -1,4 +1,4 @@
-# Tensorflow demos &amp; tutorials
+# TensorFlow demos &amp; tutorials
 
 Table of contents:
 1. [Quickstart for beginners](https://www.tensorflow.org/tutorials/quickstart/beginner)
